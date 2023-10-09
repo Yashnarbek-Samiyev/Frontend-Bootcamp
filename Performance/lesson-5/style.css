@@ -1,0 +1,33 @@
+  * {
+            margin: 0;
+            padding: 0;
+
+        }
+
+        div {
+            background-image: url("../../../../../Certificates/java-train.jpg");
+            width: 200px;
+            height: 200px;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+            background-attachment: fixed;
+
+        }
+
+        p {
+            width: 300px;
+            text-align: justify;
+            text-decoration: underline;
+            text-transform: capitalize;
+        }
+        /* Text Spacing! */
+        #para1{
+            text-indent: 40px;
+        }
+        #para2{
+            word-spacing: 20px;
+        }
+        #para3{
+                
+        }

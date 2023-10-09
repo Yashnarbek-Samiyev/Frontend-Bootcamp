@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Performance/ReactJs-1/lesson-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Performance/ReactJs-2/projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Performance/ReactJs-3/calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Performance/ReactJs-4/api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Performance/VueJs-1/post" vcs="Git" />
+  </component>
+</project>

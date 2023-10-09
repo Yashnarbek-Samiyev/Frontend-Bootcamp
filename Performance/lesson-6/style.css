@@ -1,0 +1,57 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.group{
+    /* display: inline-flex; */
+    display: none;
+}
+.first{
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    overflow: auto;
+}
+#first{
+    float: left;
+}
+#second{
+    float: right;
+}
+.a:focus{
+    background-color: yellow;
+    color: wheat;
+
+}
+.b:invalid{
+   text-shadow: 5px 5px 20px rgb(65, 29, 7);
+}
+h1::before{
+    content: "Hello,";
+    color: red;
+
+}
+h1::selection{
+    background-color: yellow;
+    color: red;
+}
+::marker{
+    color: red;
+}
+
+input::placeholder{
+    color: aqua;
+}
+
+#hh{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    padding: 10px;
+    background-color: greenyellow;
+    box-shadow: 10px 10px 10px red;
+    border-radius: 30px;
+}
+
